@@ -1,0 +1,2 @@
+"Band Name","Color","Sub-band Name","Start Downlink Center Frequency (MHz)","End Downlink Center Frequency (MHz)","Start Uplink Center Frequency (MHz)","End Uplink Center Frequency (MHz)","Carrier Bandwidth (MHz)","Number of Carriers","Interference Coordination Scheme","Reuse Factor","Inner Cell Resource Blocks (%)"
+"LteFddBand","-12525360","SB1","1967.5","1972.5","1887.5","1892.5","5","2","None","3","50"

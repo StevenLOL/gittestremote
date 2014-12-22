@@ -1,0 +1,3 @@
+"Name","Service Type","Comment","Priority","Erlangs per Subscriber","Throughput per Subscriber (kbps)","Downlink Activity Factor (%)","Uplink Activity Factor (%)","QoS Class","Minimum Downlink Data Rate (kbps)","Maximum Downlink Data Rate (kbps)","Minimum Uplink Data Rate (kbps)","Maximum Uplink Data Rate (kbps)","Cell Edge Coverage Probability (%)","Body Loss (dB)","Required Uplink FER/PER (%)","Required Downlink FER/PER (%)","Latency Target","Scheduling Type","Support Uplink TTI Bundling"
+"LTE FDD-Service_1","Data Service","","1","0.025","0.025","50","50","1","32","32","32","32","85","1.5","1","1","16","Dynamic",""
+"VoLTE-Service_1","VoLTE Service","","2","0.025","0.025","50","50","1","12.2","12.2","12.2","12.2","50","1.5","1","1","16","SemiPersistent","True"

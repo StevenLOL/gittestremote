@@ -1,0 +1,3 @@
+"Carrier Name","Band Name","Sub-band Name","Downlink Center Frequency (MHz)","Uplink Center Frequency (MHz)","Bandwidth (MHz)","RSRP Threshold (dBm)","Availability","Preference"
+"LteFddBand_SB1_1","LteFddBand","SB1","1967.5","1887.5","5","-200","True","0"
+"LteFddBand_SB1_2","LteFddBand","SB1","1972.5","1892.5","5","-200","True","0"

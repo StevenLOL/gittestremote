@@ -1,0 +1,2 @@
+"Use Spectral Efficiency Curve","Apply Slow Fading to Server and Interferers","Correlation Model","Alpha (Degree)","Beta (Degree)","RhoZero","B","Intra-site Correlation Factor","Inter-site Correlation Factor","Hard Handover Gain Type","Downlink Hard Handover Gain (dB)","Uplink Hard Handover Gain (dB)","PDCCH Required C/(N+I) (dB)"
+"False","False","Angular","5","70","0.83","0.6","0.83","0.2","None","3","3","-5"

@@ -1,0 +1,4 @@
+"Link Configuration ID","Index","Direction","Type","Name","Value (dB)","Value (dB/100m)","Noise Figure (dB)"
+"Default","1","Downlink","Loss","MainFeeder","","10",""
+"Default","2","Uplink","Gain","BTS Noise Figure","","","5"
+"Default","1","Uplink","Loss","MainFeeder","","10",""
