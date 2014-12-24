@@ -1,4 +1,5 @@
 "Site ID","BTS Name","MCC","MNC","Maximum Pooled Throughput (Mbps)","eNodeB ID","Base Station Type"
+"NewSite001","LTE FDD","0","0","100","","LTE FDD_BTS_1"
 "Site_1","LTE FDD","0","0","100","","LTE FDD_BTS_1"
 "Site_10","LTE FDD","0","0","100","","LTE FDD_BTS_1"
 "Site_100","LTE FDD","0","0","100","","LTE FDD_BTS_1"

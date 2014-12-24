@@ -1,4 +1,7 @@
 "Site ID","Sector ID","Carrier Name","Cell ID","E-UTRAN Cell ID","Downlink Load (%)","Uplink Load (%)","Maximum Downlink Load (%)","Maximum Uplink Load (%)","Uplink Noise Rise (dB)","FFR Usage (%)","Almost Blank Subframes (%)"
+"NewSite001","1","LteFddBand_SB1_1","","","50","0","100","100","3","0",""
+"NewSite001","2","LteFddBand_SB1_1","","","50","0","100","100","3","0",""
+"NewSite001","3","LteFddBand_SB1_1","","","50","0","100","100","3","0",""
 "Site_1","1","LteFddBand_SB1_1","","","50","0","100","100","3","0",""
 "Site_1","2","LteFddBand_SB1_1","","","50","0","100","100","3","0",""
 "Site_1","3","LteFddBand_SB1_1","","","50","0","100","100","3","0",""

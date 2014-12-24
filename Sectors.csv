@@ -1,4 +1,7 @@
 "Site ID","BTS Name","Sector ID","Sector UID","Cell ID","Technology","Band Name","Antenna Algorithm","Propagation Model","Distance (km)","Radials","Prediction Mode","Interpolation Distance (m)","Display Scheme"
+"NewSite001","LTE FDD","1","","","LTE FDD","LteFddBand","N/A","default_PlanetGeneralModel.pmf","20","60","Modeled","200","N/A"
+"NewSite001","LTE FDD","2","","","LTE FDD","LteFddBand","N/A","default_PlanetGeneralModel.pmf","20","60","Modeled","200","N/A"
+"NewSite001","LTE FDD","3","","","LTE FDD","LteFddBand","N/A","default_PlanetGeneralModel.pmf","20","60","Modeled","200","N/A"
 "Site_1","LTE FDD","1","","","LTE FDD","LteFddBand","N/A","default_PlanetGeneralModel.pmf","20","60","Modeled","200","N/A"
 "Site_1","LTE FDD","2","","","LTE FDD","LteFddBand","N/A","default_PlanetGeneralModel.pmf","20","60","Modeled","200","N/A"
 "Site_1","LTE FDD","3","","","LTE FDD","LteFddBand","N/A","default_PlanetGeneralModel.pmf","20","60","Modeled","200","N/A"

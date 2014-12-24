@@ -1,4 +1,7 @@
 "Site ID","Antenna ID","Longitude","Latitude","Antenna File","Height (m)","Azimuth","Mechanical Tilt","Twist","Donor Antenna","Terrain Height (m)","Sectors","Number of Corrections","Correction (dB) at -180 degrees","Correction (dB) at -150 degrees","Correction (dB) at -120 degrees","Correction (dB) at -90 degrees","Correction (dB) at -60 degrees","Correction (dB) at -30 degrees","Correction (dB) at 0 degrees","Correction (dB) at 30 degrees","Correction (dB) at 60 degrees","Correction (dB) at 90 degrees","Correction (dB) at 120 degrees","Correction (dB) at 150 degrees"
+"NewSite001","1","139.594437","35.685991","default.pafx","25","0","0","0","False","50.97","1","12","0","0","0","0","0","0","0","0","0","0","0","0"
+"NewSite001","2","139.594437","35.685991","default.pafx","25","120","0","0","False","50.97","2","12","0","0","0","0","0","0","0","0","0","0","0","0"
+"NewSite001","3","139.594437","35.685991","default.pafx","25","240","0","0","False","50.97","3","12","0","0","0","0","0","0","0","0","0","0","0","0"
 "Site_1","1","139.72775938437161","35.760669192832651","default.pafx","25","0","0","0","False","21.48","1","12","0","0","0","0","0","0","0","0","0","0","0","0"
 "Site_1","2","139.72775938437161","35.760669192832651","default.pafx","25","120","0","0","False","21.48","2","12","0","0","0","0","0","0","0","0","0","0","0","0"
 "Site_1","3","139.72775938437161","35.760669192832651","default.pafx","25","240","0","0","False","21.48","3","12","0","0","0","0","0","0","0","0","0","0","0","0"

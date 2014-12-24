@@ -1,4 +1,7 @@
 "Site ID","Sector ID","Antenna ID","MIMO Group","Horizontal Beamwidth","Vertical Beamwidth","Link Configuration ID","Cable Length (m)","Power Split (%)","Downlink Beamforming Configuration","Uplink Beamforming Configuration"
+"NewSite001","1","1","1","65","62","Default","25","100","None","None"
+"NewSite001","2","2","1","65","62","Default","25","100","None","None"
+"NewSite001","3","3","1","65","62","Default","25","100","None","None"
 "Site_1","1","1","1","65","62","Default","25","100","None","None"
 "Site_1","2","2","1","65","62","Default","25","100","None","None"
 "Site_1","3","3","1","65","62","Default","25","100","None","None"
